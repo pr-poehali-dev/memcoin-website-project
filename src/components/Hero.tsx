@@ -3,14 +3,16 @@ import Icon from "@/components/ui/icon";
 
 const Hero = () => {
   return (
-    <section className="relative z-10 flex items-center justify-center min-h-screen px-4">
-      <div className="text-center max-w-4xl mx-auto">
+    <section className="relative z-10 flex flex-col items-center justify-center min-h-screen">
+      <div className="w-full mb-8">
+        <img
+          src="https://cdn.poehali.dev/files/fa13ccd1-e7e9-4a38-b335-f41cc449026c.jpeg"
+          alt="Smart Man"
+          className="w-full h-96 object-cover shadow-2xl"
+        />
+      </div>
+      <div className="text-center max-w-4xl mx-auto px-4">
         <div className="mb-8">
-          <img
-            src="https://cdn.poehali.dev/files/fa13ccd1-e7e9-4a38-b335-f41cc449026c.jpeg"
-            alt="Smart Man"
-            className="w-80 h-80 rounded-2xl mx-auto mb-8 border-4 border-blue-500 shadow-2xl object-cover"
-          />
           <h1 className="text-6xl font-bold text-white mb-4 font-montserrat">
             SMART MAN
           </h1>
