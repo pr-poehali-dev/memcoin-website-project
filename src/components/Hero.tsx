@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="text-center max-w-4xl mx-auto">
         <div className="mb-8">
           <img
-            src="https://cdn.poehali.dev/files/952e0e16-caa4-44d1-ae36-11f3cb8e3a72.jpg"
+            src="https://cdn.poehali.dev/files/fa13ccd1-e7e9-4a38-b335-f41cc449026c.jpeg"
             alt="Smart Man"
             className="w-80 h-80 rounded-2xl mx-auto mb-8 border-4 border-blue-500 shadow-2xl object-cover"
           />
@@ -25,7 +25,7 @@ const Hero = () => {
             className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 text-lg font-semibold relative overflow-hidden group"
           >
             <img
-              src="https://cdn.poehali.dev/files/952e0e16-caa4-44d1-ae36-11f3cb8e3a72.jpg"
+              src="https://cdn.poehali.dev/files/fa13ccd1-e7e9-4a38-b335-f41cc449026c.jpeg"
               alt="Smart Man"
               className="w-6 h-6 rounded-full mr-2 opacity-70 group-hover:opacity-100 transition-opacity"
             />
@@ -39,7 +39,7 @@ const Hero = () => {
             className="border-blue-500 text-blue-400 hover:bg-blue-500 hover:text-white px-8 py-4 text-lg font-semibold relative overflow-hidden group"
           >
             <img
-              src="https://cdn.poehali.dev/files/952e0e16-caa4-44d1-ae36-11f3cb8e3a72.jpg"
+              src="https://cdn.poehali.dev/files/fa13ccd1-e7e9-4a38-b335-f41cc449026c.jpeg"
               alt="Smart Man"
               className="w-6 h-6 rounded-full mr-2 opacity-70 group-hover:opacity-100 transition-opacity"
             />

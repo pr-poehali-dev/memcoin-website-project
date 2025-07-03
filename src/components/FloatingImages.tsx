@@ -55,7 +55,7 @@ const FloatingImages = () => {
       {images.map((image) => (
         <img
           key={image.id}
-          src="https://cdn.poehali.dev/files/952e0e16-caa4-44d1-ae36-11f3cb8e3a72.jpg"
+          src="https://cdn.poehali.dev/files/fa13ccd1-e7e9-4a38-b335-f41cc449026c.jpeg"
           alt="Smart Man Flying"
           className="absolute rounded-full object-cover transition-all duration-75"
           style={{

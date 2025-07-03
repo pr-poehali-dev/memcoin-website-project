@@ -73,7 +73,7 @@ const HowToBuy = () => {
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
               <Button className="bg-pink-600 hover:bg-pink-700 text-white relative overflow-hidden group">
                 <img
-                  src="https://cdn.poehali.dev/files/952e0e16-caa4-44d1-ae36-11f3cb8e3a72.jpg"
+                  src="https://cdn.poehali.dev/files/fa13ccd1-e7e9-4a38-b335-f41cc449026c.jpeg"
                   alt="Smart Man"
                   className="w-5 h-5 rounded-full mr-2 opacity-70 group-hover:opacity-100 transition-opacity"
                 />
@@ -81,7 +81,7 @@ const HowToBuy = () => {
               </Button>
               <Button className="bg-orange-600 hover:bg-orange-700 text-white relative overflow-hidden group">
                 <img
-                  src="https://cdn.poehali.dev/files/952e0e16-caa4-44d1-ae36-11f3cb8e3a72.jpg"
+                  src="https://cdn.poehali.dev/files/fa13ccd1-e7e9-4a38-b335-f41cc449026c.jpeg"
                   alt="Smart Man"
                   className="w-5 h-5 rounded-full mr-2 opacity-70 group-hover:opacity-100 transition-opacity"
                 />
@@ -89,7 +89,7 @@ const HowToBuy = () => {
               </Button>
               <Button className="bg-blue-600 hover:bg-blue-700 text-white relative overflow-hidden group">
                 <img
-                  src="https://cdn.poehali.dev/files/952e0e16-caa4-44d1-ae36-11f3cb8e3a72.jpg"
+                  src="https://cdn.poehali.dev/files/fa13ccd1-e7e9-4a38-b335-f41cc449026c.jpeg"
                   alt="Smart Man"
                   className="w-5 h-5 rounded-full mr-2 opacity-70 group-hover:opacity-100 transition-opacity"
                 />
@@ -97,7 +97,7 @@ const HowToBuy = () => {
               </Button>
               <Button className="bg-violet-600 hover:bg-violet-700 text-white relative overflow-hidden group">
                 <img
-                  src="https://cdn.poehali.dev/files/952e0e16-caa4-44d1-ae36-11f3cb8e3a72.jpg"
+                  src="https://cdn.poehali.dev/files/fa13ccd1-e7e9-4a38-b335-f41cc449026c.jpeg"
                   alt="Smart Man"
                   className="w-5 h-5 rounded-full mr-2 opacity-70 group-hover:opacity-100 transition-opacity"
                 />
