@@ -9,7 +9,7 @@ const Hero = () => {
           <img
             src="https://cdn.poehali.dev/files/952e0e16-caa4-44d1-ae36-11f3cb8e3a72.jpg"
             alt="Smart Man"
-            className="w-48 h-48 rounded-full mx-auto mb-8 border-4 border-blue-500 shadow-2xl"
+            className="w-80 h-80 rounded-2xl mx-auto mb-8 border-4 border-blue-500 shadow-2xl object-cover"
           />
           <h1 className="text-6xl font-bold text-white mb-4 font-montserrat">
             SMART MAN
